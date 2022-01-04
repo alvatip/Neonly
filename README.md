@@ -34,7 +34,7 @@ tar -zxvf Neonly.tar.gz -C /usr/share/icons/
 ### Also available on Pling
 <p align="left">
   <a href="https://www.pling.com/p/1677902/" >
-    <img title="Nordzy-cursors Pling Store" width="25%" src="https://imgur.com/VxSgrWw.png">
+    <img title="Neonly on Pling Store" width="25%" src="https://imgur.com/VxSgrWw.png">
   </a>
 </p>
 
