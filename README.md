@@ -61,7 +61,7 @@ If you have any issues, report them [here](https://github.com/alvatip/Neonly/iss
 ##  How can I help ?
 
 * By giving a **star** or **follow** on GitHub.
-* By **rating** it on Pling
+* By **rating** it on [Pling](https://www.pling.com/p/1677902/)
 
 ## Licence
 
