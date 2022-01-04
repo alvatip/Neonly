@@ -1,7 +1,5 @@
 # Neonly
 
-![Neonly logo](./art/logo.png)
-
 ## Preview
 
 ![Neonly preview](./art/preview.png)
@@ -28,14 +26,17 @@ Alternatively, you can use the tar.gz files located in the archive folder or in 
 For local installation:
 ```
 tar -zxvf Neonly.tar.gz -C $HOME/.icons/
-tar -zxvf Neonly.tar.gz -C $HOME/.icons/
 ```
 For system-wide installation: 
 ```
 tar -zxvf Neonly.tar.gz -C /usr/share/icons/
-tar -zxvf Neonly.tar.gz -C /usr/share/icons/
 ```
-
+### Also available on Pling
+<p align="left">
+  <a href="https://www.pling.com/p/1677902/" >
+    <img title="Nordzy-cursors Pling Store" width="25%" src="https://imgur.com/VxSgrWw.png">
+  </a>
+</p>
 
 ### Set the cursor theme
 There are various way to set this (or another) cursor theme.</br>

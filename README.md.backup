@@ -1,7 +1,5 @@
 # Neonly
 
-![Neonly logo](./art/logo.png)
-
 ## Preview
 
 ![Neonly preview](./art/preview.png)
@@ -28,11 +26,9 @@ Alternatively, you can use the tar.gz files located in the archive folder or in 
 For local installation:
 ```
 tar -zxvf Neonly.tar.gz -C $HOME/.icons/
-tar -zxvf Neonly.tar.gz -C $HOME/.icons/
 ```
 For system-wide installation: 
 ```
-tar -zxvf Neonly.tar.gz -C /usr/share/icons/
 tar -zxvf Neonly.tar.gz -C /usr/share/icons/
 ```
 
@@ -61,7 +57,6 @@ If you have any issues, report them [here](https://github.com/alvatip/Neonly/iss
 
 * By giving a **star** or **follow** on GitHub.
 * By **rating** it on Pling
-* By participating to the project, creating PR, making suggestion, ...
 
 ## Licence
 
